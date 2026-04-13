@@ -1,3 +1,8 @@
+/*
+Security notice:
+This .sql file is just a template for internal development purposes.
+*/
+
 -- phpMyAdmin SQL Dump
 -- version 4.8.5
 -- https://www.phpmyadmin.net/
