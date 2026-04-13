@@ -1,4 +1,9 @@
-﻿using System;
+/**
+Security notice.
+Credentials to database should be stored in .env or or config file related to project.
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Text;
 using MySql.Data.MySqlClient;
